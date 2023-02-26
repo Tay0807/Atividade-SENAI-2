@@ -1,0 +1,40 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.figure{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    margin: 15px;
+}
+
+.imagem{
+    height: 100%;
+    width: 100%;
+}
+
+.p1{
+    font-size: 100%;
+    text-align: center;
+}
+
+.p2{
+    font-size: 100%;
+    text-align: center;
+    color: red;
+}
+
+.p3{
+    font-size: 100%;
+    text-align: center;
+    color: blue;
+}
+
+.p1, 
+.p2,
+.p3{
+    margin: 30px;
+}

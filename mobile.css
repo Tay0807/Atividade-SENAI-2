@@ -1,0 +1,16 @@
+
+
+@media (max-width: 300px){
+    #corpo #paragrafos{
+        font-size: 10%;
+        text-align: center;
+    }
+}
+
+@media  (max-width: 1315px){
+    #corpo #imagem figure{
+        width: 100%;
+        height: 90%;
+    }
+}
+
